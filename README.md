@@ -1,6 +1,5 @@
 # OAuth_Validator
-Validates OAuth is enabled for given credentials
-Written in Python3
+Validates OAuth is enabled for given credentials. Written in Python3
 
 ### Modules:
 - Requests
