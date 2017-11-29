@@ -6,5 +6,5 @@ Validates OAuth is enabled for given credentials. Written in Python3
 
 ### How to use:
 - At prompt, enter client id and password
-- If successful, OAuth token will be shown and API access
+- If successful, OAuth token will be shown and API accessed
 - If unsuccessful, "Authentication Failed" message shown
